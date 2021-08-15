@@ -22,6 +22,11 @@ Next, Train the model with train_model.py.
 
 Finally, use the model in game with test_model.py.
 
+
+This is my result that one of Ai model drving scene.
+![Cap 2021-08-08 22-33-20-971](https://user-images.githubusercontent.com/86881143/129468422-31c75d42-dd8a-4ef5-b65f-f4067bd68663.jpg)
+
+
 Also, Pull requests are welcomed.
 
 Then, have fun coding.
