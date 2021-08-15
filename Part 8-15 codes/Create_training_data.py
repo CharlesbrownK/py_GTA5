@@ -1,4 +1,4 @@
-# create_training_data.py
+# Create_training_data.py
 
 import numpy as np
 from grabscreen import grab_screen
