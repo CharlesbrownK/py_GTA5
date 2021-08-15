@@ -28,7 +28,7 @@ curl https://booststrap.pypa.io/get-pip.py -o get-pip.py
 ```
 After input this code, you have to continue the download.
 ```
-    python get-pip.py
+python get-pip.py
 ```
 
 When, You can see the "Successsfull installed pip-(version)" comment, it's the end of download pip.
