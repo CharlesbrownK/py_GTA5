@@ -1,4 +1,4 @@
-# alexnet.py
+# Alexnet.py
 
 """ AlexNet.
 References:
