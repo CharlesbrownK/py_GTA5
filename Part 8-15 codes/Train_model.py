@@ -1,4 +1,4 @@
-# train_model.py
+# Train_model.py
 
 import numpy as np
 from alexnet import alexnet
