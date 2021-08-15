@@ -1,4 +1,4 @@
-# test_model.py
+# Test_model.py
 
 import numpy as np
 from grabscreen import grab_screen
