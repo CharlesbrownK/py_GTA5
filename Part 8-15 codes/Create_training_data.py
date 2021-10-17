@@ -72,4 +72,4 @@ def main():
                 time.sleep(1)
 
 
-main()
+main(file_name, starting_value)
