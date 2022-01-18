@@ -40,5 +40,5 @@ This is my result that one of Ai model drving scene.
 
 I collected a lot of data, and based on the data I collected, I was able to create a driving artificial intelligence model like the picture above through many learning processes.
 
-###
-Also, Pull requests are welcomed.
+### Also
+Pull requests are welcomed!
