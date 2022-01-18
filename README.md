@@ -1,4 +1,4 @@
-xxxxxx# py_GTA5
+# py_GTA5
 
 Finally, use the model in game with test_model.py.
 
@@ -16,17 +16,16 @@ Currently, to use this version of AI, you will need to run first "Create_trainin
 
 When creating training data, this works when you have the game in windowed mode, 800x600 resolution, at the top left of your screen. You need this for both training and testing. Eventually we can go off the window's name, but, for now, the current code wants the window in the corner.
 
-Do this for as many files/training samples as you wish. I suggest 100K+ after balancing, but the more the merrier.
+Do this for as many files/training samples as you wish. I suggest 100K+ after balancing, but the more the merrier. ext, Train the model with train_model.py.
 
-Next, Train the model with train_model.py.
+Finally, use the model in game with test_model.py. You have to dowload pip through the code below:
 
-Finally, use the model in game with test_model.py.
-
-You have to dowload pip through the code below.
 ```
 curl https://booststrap.pypa.io/get-pip.py -o get-pip.py
 ```
-After input this code, you have to continue the download.
+
+After input this code, you have to continue the download:
+
 ```
 python get-pip.py
 ```
