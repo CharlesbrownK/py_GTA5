@@ -18,26 +18,17 @@ When creating training data, this works when you have the game in windowed mode,
 
 Do this for as many files/training samples as you wish. I suggest 100K+ after balancing, but the more the merrier. ext, Train the model with train_model.py.
 
-Finally, use the model in game with test_model.py. You have to dowload pip through the code below:
-
-```
-curl https://booststrap.pypa.io/get-pip.py -o get-pip.py
-```
-
-After input this code, you have to continue the download:
-
-```
-python get-pip.py
-```
-
-When, You can see the "Successsfull installed pip-(version)" comment, it's the end of download pip.
-Now, you have to download more specific pip.
+Finally, use the model in game with test_model.py.
   
+
 ## model.py
+
 This is my result that one of Ai model drving scene.
 ![Cap 2021-08-08 22-33-20-971](https://user-images.githubusercontent.com/86881143/129468422-31c75d42-dd8a-4ef5-b65f-f4067bd68663.jpg)
 
 I collected a lot of data, and based on the data I collected, I was able to create a driving artificial intelligence model like the picture above through many learning processes.
 
+
 ## Also
+
 Pull requests are welcomed!
