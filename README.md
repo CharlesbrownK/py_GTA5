@@ -18,8 +18,8 @@ When creating training data, this works when you have the game in windowed mode,
 
 Do this for as many files/training samples as you wish. I suggest 100K+ after balancing, but the more the merrier. ext, Train the model with train_model.py.
 
-Finally, use the model in game with test_model.py.
-  
+Finally, use the model in game with test_model.py.  
+
 
 ## model.py
 
