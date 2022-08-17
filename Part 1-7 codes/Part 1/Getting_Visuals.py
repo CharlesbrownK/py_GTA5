@@ -1,5 +1,5 @@
 import numpy as np
-from PIL impport ImageGrab
+from PIL import ImageGrab
 import cv2
 import time
 
